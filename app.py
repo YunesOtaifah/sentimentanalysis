@@ -10,9 +10,8 @@ def download_file(url, filename):
     with open(filename, 'wb') as f:
         f.write(response.content)
 
-model_url = 'https://filetransfer.io/data-package/dKezepPr/download'  # Replace 'url1' with the actual URL
-vectorizer_url = 'https://filetransfer.io/data-package/ucMBTvgA/download'  # Replace 'url2' with the actual URL
-
+model_url = 'https://filetransfer.io/data-package/dKezepPr/download'  
+vectorizer_url = 'https://filetransfer.io/data-package/ucMBTvgA/download' 
 model_path = './models'
 os.makedirs(model_path, exist_ok=True)
 model_filename = os.path.join(model_path, 'multinomial_nb_model_bow.pkl')
