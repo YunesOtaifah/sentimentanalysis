@@ -1,8 +1,8 @@
 # sentimentanalysis
 ## Steps to install the app
-`pip install -r requirements`
-`streamlit run app.py`
+`pip install -r requirements
 
+streamlit run app.py`
 
 ## Steps to use notebook
 `pip install -r ./notebook/requirements`
