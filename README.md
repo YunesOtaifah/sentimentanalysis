@@ -26,7 +26,6 @@ To install the application, follow these steps:
 To use the notebook for analysis, follow these steps:
 
 1. **Install the required dependencies for the notebook:**
-
 `pip install -r ./notebook/requirements.txt`
 
 2. **Download the dataset from [this link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/).**
