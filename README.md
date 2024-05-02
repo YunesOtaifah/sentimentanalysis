@@ -30,7 +30,7 @@ To use the notebook for analysis, follow these steps:
 
 2. **Download the dataset from [this link](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/).**
 
-3. **Add the dataset to the notebook folder.**
+3. **Add the dataset to the notebook folder and place it in the content folder.**
 
 4. **Open the notebook in your preferred environment and start analyzing!**
 
